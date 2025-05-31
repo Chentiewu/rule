@@ -1,19 +1,37 @@
 proxies:
-  - {"name":"香港1","type":"trojan","server":"nbae7a7.kaiqsz.com","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
-  - {"name":"香港2","type":"trojan","server":"nbae7a7.kaiqsz.com","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
-  - {"name":"香港3","type":"trojan","server":"nbae7a7.kaiqsz.com","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
-  - {"name":"台湾1","type":"trojan","server":"nbae7a7.kaiqsz.com","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"台湾2","type":"trojan","server":"nbae7a7.kaiqsz.com","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"台湾3","type":"trojan","server":"nbae7a7.kaiqsz.com","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"新加坡1","type":"trojan","server":"nbae7a7.kaiqsz.com","port":48291,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"新加坡2","type":"trojan","server":"nbae7a7.kaiqsz.com","port":18489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"日本1","type":"trojan","server":"nbae7a7.kaiqsz.com","port":28713,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"日本2","type":"trojan","server":"nbae7a7.kaiqsz.com","port":28713,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"日本1-原生","type":"trojan","server":"wb.kaiqsz.com","port":46307,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"日本2-原生","type":"trojan","server":"wb.kaiqsz.com","port":46307,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
-  - {"name":"美国1","type":"trojan","server":"nbae7a7.kaiqsz.com","port":21489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
-  - {"name":"美国2","type":"trojan","server":"nbae7a7.kaiqsz.com","port":21489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
-  - {"name":"美国原生","type":"trojan","server":"nbae7a7.kaiqsz.com","port":53547,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"香港中转","type":"trojan","server":"wb.kaiqsz.com","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"香港中转 - 江苏","type":"trojan","server":"js-12f83a8c.kaiqsz.com","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"香港中转 - 广州","type":"trojan","server":"gz-43e866.kaiqsz.com","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"台湾中转","type":"trojan","server":"wb.kaiqsz.com","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"台湾中转 - 江苏","type":"trojan","server":"js-12f83a8c.kaiqsz.com","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"台湾中转 - 广州","type":"trojan","server":"gz-43e866.kaiqsz.com","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"新加坡中转","type":"trojan","server":"wb.kaiqsz.com","port":48291,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"新加坡中转 - 江苏","type":"trojan","server":"js-12f83a8c.kaiqsz.com","port":18489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"新加坡中转 - 广州","type":"trojan","server":"gz-43e866.kaiqsz.com","port":18489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"日本中转1-家宽","type":"trojan","server":"wb.kaiqsz.com","port":49921,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"日本中转2-家宽","type":"trojan","server":"wb.kaiqsz.com","port":49921,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"日本中转","type":"trojan","server":"wb.kaiqsz.com","port":28713,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"日本中转 - 广州","type":"trojan","server":"gz-43e866.kaiqsz.com","port":28713,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"日本中转 - 江苏","type":"trojan","server":"js-12f83a8c.kaiqsz.com","port":28713,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"美国中转","type":"trojan","server":"wb.kaiqsz.com","port":21489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"美国中转 - 广州","type":"trojan","server":"gz-43e866.kaiqsz.com","port":21489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"美国中转 - 江苏","type":"trojan","server":"js-12f83a8c.kaiqsz.com","port":21489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"美国中转原生","type":"trojan","server":"nbae7a7.kaiqsz.com","port":53547,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"香港直连1 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":20461,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"香港直连2 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":20461,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"台湾直连1 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":48597,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"台湾直连2 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":48597,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"新加坡直连1 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":31183,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"新加坡直连2 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":31183,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"日本直连1 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":17371,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"日本直连2 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":17371,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"美国直连1 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":56449,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"美国直连2 - 0.5倍率","server":"hxzlaws.80-25-lyy.com","port":56449,"sni":"www.bing.com","up":10000,"down":10000,"skip-cert-verify":true,"type":"hysteria2","password":"24c152c1-3d68-418f-a05d-27307c82d152"}
+  - {"name":"香港 IPV6","type":"trojan","server":"hxipv6.hongxingdl.vip","port":12221,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
+  - {"name":"台湾 IPV6","type":"trojan","server":"hxipv6.hongxingdl.vip","port":42765,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"新加坡 IPV6","type":"trojan","server":"hxipv6.hongxingdl.vip","port":48291,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"日本 IPV6","type":"trojan","server":"hxipv6.hongxingdl.vip","port":28713,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz1.redapricotcloud.com"}
+  - {"name":"美国 IPV6","type":"trojan","server":"hxipv6.hongxingdl.vip","port":21489,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
   - {"name":"韩国","type":"trojan","server":"lm.kaiqsz.com","port":39593,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz.redapricotcloud.com"}
   - {"name":"韩国-首尔","type":"trojan","server":"lm.kaiqsz.com","port":51075,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz10.redapricotcloud.com"}
   - {"name":"德国","type":"trojan","server":"lm.kaiqsz.com","port":21463,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz12.redapricotcloud.com"}
@@ -33,7 +51,7 @@ proxies:
   - {"name":"南非","type":"trojan","server":"lm.kaiqsz.com","port":53759,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz11.redapricotcloud.com"}
   - {"name":"沙特阿拉伯","type":"trojan","server":"lm.kaiqsz.com","port":56072,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz11.redapricotcloud.com"}
   - {"name":"哥伦比亚","type":"trojan","server":"lm.kaiqsz.com","port":25118,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz10.redapricotcloud.com"}
-  - {"name":"以色列","type":"trojan","server":"lm.kaiqsz.com","port":44650,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz11.redapricotcloud.com"}
+  - {"name":"以色列","type":"trojan","server":"lm.kaiqsz.com","port":44650,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz14.redapricotcloud.com"}
   - {"name":"越南","type":"trojan","server":"lm.kaiqsz.com","port":59009,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz14.redapricotcloud.com"}
   - {"name":"泰国","type":"trojan","server":"lm.kaiqsz.com","port":43855,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz14.redapricotcloud.com"}
   - {"name":"马来西亚","type":"trojan","server":"lm.kaiqsz.com","port":30383,"password":"24c152c1-3d68-418f-a05d-27307c82d152","udp":true,"skip-cert-verify":true,"sni":"mmbiz14.redapricotcloud.com"}
