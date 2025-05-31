@@ -1,4 +1,7 @@
 proxies:
+  - {"type":"ssr","server":"cn00.closeai.one","port":8801,"protocol":"origin","cipher":"chacha20-ietf","obfs":"http_simple","password":"passwd","name":"TW01","obfs-param":"31875-chentiewu1980.download.microsoft.com"}
+  - {"type":"ssr","server":"cn00.closeai.one","port":8802,"protocol":"origin","cipher":"chacha20-ietf","obfs":"http_simple","password":"passwd","name":"JP01","obfs-param":"31875-chentiewu1980.download.microsoft.com"}
+  - {"type":"ssr","server":"cn00.closeai.one","port":8803,"protocol":"origin","cipher":"chacha20-ietf","obfs":"http_simple","password":"passwd","name":"US01","obfs-param":"31875-chentiewu1980.download.microsoft.com"}
   - {"type":"ssr","server":"cn01.closeai.one","port":8101,"protocol":"origin","cipher":"chacha20-ietf","obfs":"http_simple","password":"passwd","name":"香港01","obfs-param":"31875-chentiewu1980.download.microsoft.com"}
   - {"type":"ssr","server":"cn01.closeai.one","port":8102,"protocol":"origin","cipher":"chacha20-ietf","obfs":"http_simple","password":"passwd","name":"香港02","obfs-param":"31875-chentiewu1980.download.microsoft.com"}
   - {"type":"ssr","server":"cn01.closeai.one","port":8103,"protocol":"origin","cipher":"chacha20-ietf","obfs":"http_simple","password":"passwd","name":"香港03","obfs-param":"31875-chentiewu1980.download.microsoft.com"}
