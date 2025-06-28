@@ -1,0 +1,56 @@
+proxies:
+  - {"name":"剩余流量：1000 GB","type":"ss","server":"cyusd123.qeayr.cn","port":14784,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"套餐到期：长期有效","type":"ss","server":"cyusd123.qeayr.cn","port":14784,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong 01","type":"ss","server":"cyusd123.qeayr.cn","port":14784,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong 02","type":"ss","server":"cyusd123.qeayr.cn","port":14785,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong 03","type":"ss","server":"qc456987.qeayr.cn","port":24787,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong 04","type":"ss","server":"qc456987.qeayr.cn","port":24788,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong 05","type":"ss","server":"s20002625.qeayr.cn","port":46814,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong 06","type":"ss","server":"s20002625.qeayr.cn","port":46815,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong IEPL 01","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26613,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇭🇰Hong Kong IEPL 02","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26614,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan 01","type":"ss","server":"cyusd123.qeayr.cn","port":14786,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan 02","type":"ss","server":"cyusd123.qeayr.cn","port":14790,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan 03","type":"ss","server":"qc456987.qeayr.cn","port":24789,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan 04","type":"ss","server":"qc456987.qeayr.cn","port":24790,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan 05","type":"ss","server":"s20002625.qeayr.cn","port":46816,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan 06","type":"ss","server":"s20002625.qeayr.cn","port":46817,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan IEPL 01","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26615,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇹🇼Taiwan IEPL 02","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26616,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan 01","type":"ss","server":"cyusd123.qeayr.cn","port":14791,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan 02","type":"ss","server":"cyusd123.qeayr.cn","port":14792,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan 03","type":"ss","server":"qc456987.qeayr.cn","port":24791,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan 04","type":"ss","server":"qc456987.qeayr.cn","port":24792,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan 05","type":"ss","server":"s20002625.qeayr.cn","port":46818,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan 06","type":"ss","server":"s20002625.qeayr.cn","port":46819,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan IEPL 01","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26617,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇯🇵Japan IEPL 02","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26618,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States 01","type":"ss","server":"cyusd123.qeayr.cn","port":14787,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States 02","type":"ss","server":"cyusd123.qeayr.cn","port":14793,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States 03","type":"ss","server":"qc456987.qeayr.cn","port":24793,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States 04","type":"ss","server":"qc456987.qeayr.cn","port":24794,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States 05","type":"ss","server":"s20002625.qeayr.cn","port":46820,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States 06","type":"ss","server":"s20002625.qeayr.cn","port":46821,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States IEPL 01","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26619,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇺🇸United States IEPL 02","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26620,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore 01","type":"ss","server":"cyusd123.qeayr.cn","port":14789,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore 02","type":"ss","server":"cyusd123.qeayr.cn","port":14795,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore 03","type":"ss","server":"qc456987.qeayr.cn","port":24795,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore 04","type":"ss","server":"qc456987.qeayr.cn","port":24796,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore 05","type":"ss","server":"s20002625.qeayr.cn","port":46830,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore 06","type":"ss","server":"s20002625.qeayr.cn","port":46831,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore IEPL 01","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26621,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇸🇬Singapore IEPL 02","type":"ss","server":"apiyhyzsj.gweuc.cn","port":26622,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇰🇷Korea 01","type":"ss","server":"cyusd123.qeayr.cn","port":14794,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇰🇷Korea 02","type":"ss","server":"qc456987.qeayr.cn","port":24797,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇰🇷Korea 03","type":"ss","server":"s20002625.qeayr.cn","port":46824,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇦🇺Australia 01","type":"ss","server":"cyusd123.qeayr.cn","port":14796,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇦🇺Australia 02","type":"ss","server":"qc456987.qeayr.cn","port":24798,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇦🇺Australia 03","type":"ss","server":"s20002625.qeayr.cn","port":46826,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇬🇧United Kingdom 01","type":"ss","server":"cyusd123.qeayr.cn","port":47830,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇬🇧United Kingdom 02","type":"ss","server":"qc456987.qeayr.cn","port":47831,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇬🇧United Kingdom 03","type":"ss","server":"s20002625.qeayr.cn","port":47832,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇦🇶Antarctica 01","type":"ss","server":"cyusd123.qeayr.cn","port":14797,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇦🇶Antarctica 02","type":"ss","server":"qc456987.qeayr.cn","port":24799,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"🇦🇶Antarctica 03","type":"ss","server":"s20002625.qeayr.cn","port":13918,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"美国免费[ipv6]","type":"vless","server":"2605:6400:20:337:4b2f:2186:32c7:591f","port":443,"uuid":"566b36bc-cb82-4534-91b7-0eb1fc105ba2","alterId":0,"cipher":"auto","udp":true,"flow":"xtls-rprx-vision","tls":true,"reality-opts":{"public-key":"IDKfxFjmVdUwLZJazMqqJZabKPGhxwNhp1sOPKvHqwo","short-id":"758c70f9"},"client-fingerprint":"firefox","network":"tcp","servername":"us.archive.ubuntu.com"}
