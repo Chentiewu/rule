@@ -1,30 +1,30 @@
 proxies:
-  - {"name":"🇭🇰 PC香港01 BGP ","type":"vmess","server":"st-2.dnspro.icu","port":5100,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/iso","headers":{"Host":"mirrors.ustc.edu.cn"}}}
-  - {"name":"🇭🇰 PC香港02 BGP","type":"vmess","server":"st-1.dnspro.icu","port":9111,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇭🇰 PC香港03 BGP ","type":"vmess","server":"gtm-hk-8lb3vyic401.dnspro.icu","port":5500,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇭🇰 PC香港04 BGP","type":"vmess","server":"gtm-hk-8lb3vyic401.dnspro.icu","port":5502,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇭🇰 PC香港05 HKT Home","type":"vmess","server":"sh-cn-1.dnspro.icu","port":20025,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/iso","headers":{"Host":"mirrors.ustc.edu.cn"}}}
-  - {"name":"🇭🇰 PC香港06 HKT Home","type":"vmess","server":"sh-cn-2.dnspro.icu","port":5501,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇸🇬 PC新加坡07 BGP","type":"vmess","server":"cu-hn.dnspro.icu","port":4000,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇸🇬 PC新加坡08 BGP","type":"vmess","server":"cu-hn.dnspro.icu","port":4100,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇸🇬 PC新加坡09 BGP ","type":"vmess","server":"cu-hn.dnspro.icu","port":4200,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇹🇼 PC台湾10 BGP","type":"vmess","server":"tw-gx-1.dnspro.icu","port":3433,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/iso","headers":{"Host":"mirrors.ustc.edu.cn"}}}
-  - {"name":"🇹🇼 PC台湾11 Home","type":"vmess","server":"tw-gx-4.dnspro.icu","port":3344,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇯🇵 PC日本12 BGP","type":"vmess","server":"aws-beijing-1.dnspro.icu","port":20022,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇯🇵 PC日本13 BGP ","type":"vmess","server":"aws-beijing-1.dnspro.icu","port":20023,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇺🇲 PC美国14 BGP","type":"vmess","server":"gz-us-1.dnspro.icu","port":7300,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇺🇲 PC美国15 BGP","type":"vmess","server":"gtm-sg-ju02.dnspro.icu","port":7301,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇰🇷 16 韩国 BGP","type":"vmess","server":"ru-1.dnspro.icu","port":4342,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇦🇺 17 澳大利亚 Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5503,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇲🇾 18 马来西亚 Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5505,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇹🇭 19 泰国 ISP Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5504,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇻🇳 20 越南 ISP Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5506,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇮🇩 21 印尼 ISP Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5508,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇮🇳 22 印度  BGP Asia","type":"vmess","server":"steam.dnspro.icu","port":20029,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇬🇧 23 英国  BGP ","type":"vmess","server":"eu.dnspro.icu","port":20030,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇩🇪 24 德国 BGP","type":"vmess","server":"eu.dnspro.icu","port":41001,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇫🇷 25 法国  BGP","type":"vmess","server":"eu.dnspro.icu","port":5507,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇹🇷 26 土耳其 Asia","type":"vmess","server":"steam.dnspro.icu","port":5101,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC香港01 BGP ","type":"vmess","server":"st-2.dnspro.icu","port":5100,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/iso","headers":{"Host":"mirrors.ustc.edu.cn"}}}
+  - {"name":"PC香港02 BGP","type":"vmess","server":"st-1.dnspro.icu","port":9111,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC香港03 BGP ","type":"vmess","server":"gtm-hk-8lb3vyic401.dnspro.icu","port":5500,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC香港04 BGP","type":"vmess","server":"gtm-hk-8lb3vyic401.dnspro.icu","port":5502,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC香港05 HKT Home","type":"vmess","server":"sh-cn-1.dnspro.icu","port":20025,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/iso","headers":{"Host":"mirrors.ustc.edu.cn"}}}
+  - {"name":"PC香港06 HKT Home","type":"vmess","server":"sh-cn-2.dnspro.icu","port":5501,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC新加坡07 BGP","type":"vmess","server":"cu-hn.dnspro.icu","port":4000,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC新加坡08 BGP","type":"vmess","server":"cu-hn.dnspro.icu","port":4100,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC新加坡09 BGP ","type":"vmess","server":"cu-hn.dnspro.icu","port":4200,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC台湾10 BGP","type":"vmess","server":"tw-gx-1.dnspro.icu","port":3433,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/iso","headers":{"Host":"mirrors.ustc.edu.cn"}}}
+  - {"name":"PC台湾11 Home","type":"vmess","server":"tw-gx-4.dnspro.icu","port":3344,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC日本12 BGP","type":"vmess","server":"aws-beijing-1.dnspro.icu","port":20022,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC日本13 BGP ","type":"vmess","server":"aws-beijing-1.dnspro.icu","port":20023,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC美国14 BGP","type":"vmess","server":"gz-us-1.dnspro.icu","port":7300,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"PC美国15 BGP","type":"vmess","server":"gtm-sg-ju02.dnspro.icu","port":7301,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"16 韩国 BGP","type":"vmess","server":"ru-1.dnspro.icu","port":4342,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"17 澳大利亚 Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5503,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"18 马来西亚 Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5505,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"19 泰国 ISP Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5504,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"20 越南 ISP Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5506,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"21 印尼 ISP Asia","type":"vmess","server":"asia-1.dnspro.icu","port":5508,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"22 印度  BGP Asia","type":"vmess","server":"steam.dnspro.icu","port":20029,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"23 英国  BGP ","type":"vmess","server":"eu.dnspro.icu","port":20030,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"24 德国 BGP","type":"vmess","server":"eu.dnspro.icu","port":41001,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"25 法国  BGP","type":"vmess","server":"eu.dnspro.icu","port":5507,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"26 土耳其 Asia","type":"vmess","server":"steam.dnspro.icu","port":5101,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
   - {"name":"27 尼日利亚 Africa","type":"vmess","server":"steam.dnspro.icu","port":20028,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"🇦🇷 28 阿根廷 Americas","type":"vmess","server":"steam.dnspro.icu","port":41000,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"28 阿根廷 Americas","type":"vmess","server":"steam.dnspro.icu","port":41000,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
   - {"name":"29 巴基斯坦 Asia","type":"vmess","server":"steam.dnspro.icu","port":8003,"uuid":"0b396589-1761-3992-a096-2b637df52e05","alterId":0,"cipher":"auto","udp":true}
