@@ -42,13 +42,13 @@ proxies:
   - {"name":"L韩国 01","type":"ss","server":"cyusd123.qeayr.cn","port":14794,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
   - {"name":"L韩国 02","type":"ss","server":"qc456987.qeayr.cn","port":24797,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
   - {"name":"L韩国 03","type":"ss","server":"s20002625.qeayr.cn","port":46824,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"Australia 01","type":"ss","server":"cyusd123.qeayr.cn","port":14796,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"Australia 02","type":"ss","server":"qc456987.qeayr.cn","port":24798,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"Australia 03","type":"ss","server":"s20002625.qeayr.cn","port":46826,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"United Kingdom 01","type":"ss","server":"cyusd123.qeayr.cn","port":47830,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"United Kingdom 02","type":"ss","server":"qc456987.qeayr.cn","port":47831,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"United Kingdom 03","type":"ss","server":"s20002625.qeayr.cn","port":47832,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"Antarctica 01","type":"ss","server":"cyusd123.qeayr.cn","port":14797,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"Antarctica 02","type":"ss","server":"qc456987.qeayr.cn","port":24799,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
-  - {"name":"Antarctica 03","type":"ss","server":"s20002625.qeayr.cn","port":13918,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L澳大利亚 01","type":"ss","server":"cyusd123.qeayr.cn","port":14796,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L澳大利亚 02","type":"ss","server":"qc456987.qeayr.cn","port":24798,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L澳大利亚 03","type":"ss","server":"s20002625.qeayr.cn","port":46826,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L英国 01","type":"ss","server":"cyusd123.qeayr.cn","port":47830,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L英国 02","type":"ss","server":"qc456987.qeayr.cn","port":47831,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L英国 03","type":"ss","server":"s20002625.qeayr.cn","port":47832,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L南极洲 01","type":"ss","server":"cyusd123.qeayr.cn","port":14797,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L南极洲 02","type":"ss","server":"qc456987.qeayr.cn","port":24799,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
+  - {"name":"L南极洲 03","type":"ss","server":"s20002625.qeayr.cn","port":13918,"cipher":"2022-blake3-aes-128-gcm","password":"MjdlZmY4YWIyZDU0OGNkNw==:NTY2YjM2YmMtY2I4Mi00NQ==","udp":true}
   - {"name":"美国免费[ipv6]","type":"vless","server":"2605:6400:20:337:4b2f:2186:32c7:591f","port":443,"uuid":"566b36bc-cb82-4534-91b7-0eb1fc105ba2","alterId":0,"cipher":"auto","udp":true,"flow":"xtls-rprx-vision","tls":true,"reality-opts":{"public-key":"IDKfxFjmVdUwLZJazMqqJZabKPGhxwNhp1sOPKvHqwo","short-id":"758c70f9"},"client-fingerprint":"safari","network":"tcp","servername":"us.archive.ubuntu.com"}
